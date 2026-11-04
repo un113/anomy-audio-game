@@ -1,0 +1,8 @@
+{
+  "name": "Anomy Audio Game",
+  "description": "An interactive musical creature raising and audio sequencing game rewritten in React.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

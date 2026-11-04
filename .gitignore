@@ -1,0 +1,7 @@
+.pnpm-store/
+node_modules/
+dist/
+.aistudio/
+vite-preview.log
+vite-preview-error.log
+*.tsbuildinfo
